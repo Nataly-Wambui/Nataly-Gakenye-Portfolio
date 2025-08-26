@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaLaptopCode, FaBrain, FaServer, FaDatabase, FaProductHunt, FaPaintBrush, FaSearch } from 'react-icons/fa';
+import { FaLaptopCode, FaBrain, FaServer, FaDatabase, FaProductHunt, FaSearch } from 'react-icons/fa';
 
 const Skills = () => {
   const courses = [
