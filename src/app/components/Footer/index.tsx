@@ -38,7 +38,7 @@ const Footer = () => {
             </a>
             <a
               href="mailto:wambuinatalygakenye@gmail.com"
-              aria-label="Email Nyawargak Gatchang"
+              aria-label="Email Nataly Gakenye"
               className="text-white hover:text-pink-500 transition-colors"
             >
               <FaEnvelope size={24} />
